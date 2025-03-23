@@ -1,0 +1,7 @@
+.Xil/
+build/
+tmp/
+*.log
+*.debug
+*.str
+*.bat
